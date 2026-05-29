@@ -1,5 +1,6 @@
 import Foundation
-// foi usado ia para fins esteticos como no meunu e algumas outras funções como alunos e outras partes , a maioria aonde apresenta emojis e para colocar os mark 
+/* foi usado ia para fins esteticos como no meunu e algumas outras funções como alunos e outras partes , a maioria aonde apresenta emojis e para colocar os mark,
+ e arrumar certos bugs que tive */
 // MARK: - ENUMS
 
 enum NivelAluno {
